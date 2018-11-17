@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=UMI
+Comment=UMI P2P Cryptocurrency
+Exec=umi-qt %u
+Terminal=false
+Type=Application
+Icon=umi128
+MimeType=x-scheme-handler/umi;
+Categories=Office;Finance;
+Name[en_US]=umi-qt.desktop.desktop

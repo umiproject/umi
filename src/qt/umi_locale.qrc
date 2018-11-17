@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/umi_bg.qm</file>
+        <file alias="de">locale/umi_de.qm</file>
+        <file alias="en">locale/umi_en.qm</file>
+        <file alias="es">locale/umi_es.qm</file>
+        <file alias="fi">locale/umi_fi.qm</file>
+        <file alias="fr">locale/umi_fr.qm</file>
+        <file alias="it">locale/umi_it.qm</file>
+        <file alias="ja">locale/umi_ja.qm</file>
+        <file alias="pl">locale/umi_pl.qm</file>
+        <file alias="pt">locale/umi_pt.qm</file>
+        <file alias="ru">locale/umi_ru.qm</file>
+        <file alias="sk">locale/umi_sk.qm</file>
+        <file alias="sv">locale/umi_sv.qm</file>
+        <file alias="vi">locale/umi_vi.qm</file>
+        <file alias="zh_CN">locale/umi_zh_CN.qm</file>
+        <file alias="zh_TW">locale/umi_zh_TW.qm</file>
+    </qresource>
+</RCC>
